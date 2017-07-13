@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=ISBNTextField(int)
+comment0.text=\r\n\ constructor\r\n
+comment1.params=
+comment1.target=java.lang.String\ getISBN()
+comment1.text=\r\n\ methods\r\n
+comment2.params=isbn
+comment2.target=java.lang.String\ validateISBN(java.lang.String)
+comment3.params=isbn
+comment3.target=boolean\ checkDigit(java.lang.String)
+numComments=4

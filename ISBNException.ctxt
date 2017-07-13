@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=error
+comment0.target=ISBNException(java.lang.String)
+comment1.params=cause
+comment1.target=ISBNException(java.lang.Throwable)
+comment2.params=error\ cause
+comment2.target=ISBNException(java.lang.String,\ java.lang.Throwable)
+numComments=3
